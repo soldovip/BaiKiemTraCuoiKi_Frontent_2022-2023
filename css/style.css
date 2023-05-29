@@ -1,0 +1,146 @@
+
+.all{
+    display: flex;
+    flex-direction: column;
+    background-color: #F4347F ;
+    width: 1700px;
+    margin-left: 105px;
+    color: white;
+    font-family:sans-serif ;
+    justify-content: center;
+    align-items: center;
+}
+.top{
+display: flex;
+gap: 40px;
+align-items: center;
+justify-content: center;
+padding-top: 30px;
+position: relative;
+right: 580px;
+}
+.anh img{
+width: 180px;
+border: 4px solid white;
+border-radius: 25px;
+
+}
+.tt{
+    display: flex;
+    flex-direction: column;
+margin-bottom: 10px;
+    gap: 10px;
+    word-spacing: 2px;
+}
+.title{
+    font-weight: bold;
+    font-size: 2em ;
+ 
+}
+.tt .title1{
+    font-weight: bold;
+    font-size: 1em;
+}
+.chitiet{
+    font-size: 0.9em;
+    display: flex;
+    flex-direction: column;
+    line-height: 25px;
+    word-spacing: 2px;
+}
+.bottom{
+    display: flex;
+flex-direction: row;
+    gap: 13px;
+width: 1660px;
+margin-top: 20px;
+
+}
+.gt1{
+    display: flex;
+    flex-direction: column;
+    width: 13.89%;
+    gap: 10px;
+}
+.chitiet2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.5px;
+    line-height: 25px;
+    font-size: 0.8em;
+}
+.t2{
+    width: 230px;
+    font-weight: bold;
+    border-bottom: 1.9px solid white;
+    padding-bottom: 3px;
+}
+.gt2{
+    color: black;
+    background-image: url(../images/background.jpg);
+border-radius: 25px;
+height: 600px;
+width: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center,left;
+padding: 25px;
+position: relative;
+bottom: 25px;
+}
+.ls{
+    padding-bottom: 30px;
+}
+.t3{
+    font-weight: bolder;
+    border-bottom: 2px solid black;
+    padding-bottom: 3px;
+}
+
+.chitiet3{
+    display: flex;
+    flex-direction: column;
+    line-height: 25px;
+   font-size: 0.95em;
+    width: 44%;
+}
+.bang{
+    margin-top: 89px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #F4347F;
+    width: 800px;
+    margin-left: 280px;
+}
+.bang tr{
+    display: flex;
+}
+.bang tr td{
+ padding-top: 10px;
+ padding-bottom: 10px;
+     border: 1px solid #F4347F;
+     
+ }
+.td{
+    font-weight: bold;
+    display: flex;
+    background-color: #F4347F;
+   gap: 50px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.sl{
+    padding-right: 57px;
+    padding-left: 57px;
+}
+.hp1{
+    width: 260px;
+  
+}
+.hp{
+    width: 260px;
+padding-left: 10px;
+padding-right: 15px;
+}
